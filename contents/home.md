@@ -1,6 +1,6 @@
 
 
-[![YBH-create](https://img.shields.io/badge/YBH-create-github-blue?logo=github)](https://ybh-create.github.io/YBH-AI.github.io/)
+[![YBH-create](https://img.shields.io/badge/YBH-github-blue?logo=github)](https://ybh-create.github.io/YBH-AI.github.io/)
 
 He is currently a student of the Faculty of Applied Sciences, Macao Polytechnic University
 
