@@ -1,12 +1,12 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://ybh-create.github.io/YBH-AI.github.io/)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a student of the Faculty of Applied Sciences, Macao Polytechnic University
 
 #### Contact
 
-Email: p2519636[at]mpu.edu.mo
+Email: p2519636@mpu.edu.mo
 
 #### Education
 Artificial Intelligence, Macao Polytechnic University, 2025—2029.\
